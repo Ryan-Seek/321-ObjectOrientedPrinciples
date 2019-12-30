@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet", "Spreadsheet\Spreadsheet.csproj", "{44D12A11-4BBA-4730-85E7-763C51CDB1B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetEngine", "SpreadsheetEngine\SpreadsheetEngine.csproj", "{A40E9EC3-9952-4340-B25D-4ED18273C064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D12A11-4BBA-4730-85E7-763C51CDB1B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D12A11-4BBA-4730-85E7-763C51CDB1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D12A11-4BBA-4730-85E7-763C51CDB1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D12A11-4BBA-4730-85E7-763C51CDB1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40E9EC3-9952-4340-B25D-4ED18273C064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40E9EC3-9952-4340-B25D-4ED18273C064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40E9EC3-9952-4340-B25D-4ED18273C064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40E9EC3-9952-4340-B25D-4ED18273C064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {100ABDA4-03CF-4A9C-84F8-9FD29A169622}
+	EndGlobalSection
+EndGlobal
